@@ -1,6 +1,6 @@
 package com.ahuaman.akamaibypass
 
 fun main() {
-   val sensor = SensorData().sensorData
+   val sensor = SensorDataKotlin().sensorData
     println("Sensor data: $sensor")
 }
